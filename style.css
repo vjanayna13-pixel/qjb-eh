@@ -579,3 +579,26 @@
       text-align: center;
     }
   }
+.contact {
+  padding-top: 85px;
+  padding-bottom: 90px;
+  text-align: center;
+  background: var(--cream);
+}
+
+.contact h2 {
+  margin-top: 15px;
+  font-size: clamp(34px, 4vw, 48px);
+}
+
+.contact > p {
+  max-width: 480px;
+  margin: 18px auto 0;
+  color: var(--muted);
+  font-size: 13px;
+  line-height: 1.9;
+}
+
+.contact .button {
+  margin-top: 25px;
+}
