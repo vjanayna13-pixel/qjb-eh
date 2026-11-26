@@ -602,3 +602,9 @@
 .contact .button {
   margin-top: 25px;
 }
+.product-image img {
+  display: block;
+  border: none;
+  margin: 0;
+  padding: 0;
+}
